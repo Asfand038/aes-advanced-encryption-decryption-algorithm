@@ -31,7 +31,12 @@ This repository contains:
 1. Run the AES encryption and decryption script:
    ```bash
    python main.py
+   
+![Encryption Decryption Screenshot](./encrypt_decrypt_screenshot.png "Encryption Decryption in Action")
+
 2. Run the deduction attack script:
    ```bash
    python attack.py
+
+![Deduction Attack Screenshot](./deduction_attack_screenshot.png "Deduction Attack in Action")
 
